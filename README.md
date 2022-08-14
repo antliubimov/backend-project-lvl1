@@ -2,5 +2,8 @@
 [![Actions Status](https://github.com/antliubimov/backend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/antliubimov/backend-project-lvl1/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/17cd746dab1184135734/maintainability)](https://codeclimate.com/github/antliubimov/backend-project-lvl1/maintainability)
 
-#### Install and run game 'brain-even'
+#### Install and run a game 'brain-even':
 [![asciicast](https://asciinema.org/a/xdntpD8HvWPpT0Ov2jum8S44d.svg)](https://asciinema.org/a/xdntpD8HvWPpT0Ov2jum8S44d)
+
+#### Run a game 'brain-calc':
+[![asciicast](https://asciinema.org/a/WoKLeyOQnNmJGx4XGS31P9NqK.svg)](https://asciinema.org/a/WoKLeyOQnNmJGx4XGS31P9NqK)
