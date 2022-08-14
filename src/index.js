@@ -15,9 +15,14 @@ const getRandomNumber = (min, max) => {
 
 const wrongAnswer = (answer, questionAnswer) => {
   console.log(`'${answer}' is wrong answer ;(. Correct answer was '${questionAnswer}'.`);
-}
+};
 
-const play = (name, questionFn) => {
+const viewRules = (text) => (console.log(text));
+
+const play = (rules, questionFn) => {
+  greeting();
+  const name = askUserName();
+  viewRules(rules);
   const attemptsCount = 3;
   let attempts = 0;
   while (attempts < attemptsCount) {

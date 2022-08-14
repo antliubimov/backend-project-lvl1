@@ -39,6 +39,6 @@ const calcPlayQuestion = () => {
   return result;
 };
 
-const calcPlay = (name) => play(name, calcPlayQuestion);
+const calcPlay = (rules) => play(rules, calcPlayQuestion);
 
 export default calcPlay;
