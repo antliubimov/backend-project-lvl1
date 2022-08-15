@@ -10,3 +10,6 @@
 
 #### Run a game 'brain-gcd':
 [![asciicast](https://asciinema.org/a/HXi3FF1HzvWPJuNcehOXA4t47.svg)](https://asciinema.org/a/HXi3FF1HzvWPJuNcehOXA4t47)
+
+#### Run a game 'brain-progression':
+[![asciicast](https://asciinema.org/a/ps8vtKeQdxdoxu6G3vtcOrAy3.svg)](https://asciinema.org/a/ps8vtKeQdxdoxu6G3vtcOrAy3)
