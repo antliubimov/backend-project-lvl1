@@ -18,7 +18,9 @@ const checkPrime = (number) => (isPrime(number) ? 'yes' : 'no');
 
 const primePlayQuestion = () => {
   const result = {};
-  const guessNumber = getRandomNumber(-100, 100);
+  const minGuessNumber = -100;
+  const maxGuessNumber = 100;
+  const guessNumber = getRandomNumber(minGuessNumber, maxGuessNumber);
   result.str = guessNumber;
   result.answer = checkPrime(guessNumber);
   return result;
