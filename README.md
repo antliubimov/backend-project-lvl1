@@ -15,3 +15,4 @@
 [![asciicast](https://asciinema.org/a/ps8vtKeQdxdoxu6G3vtcOrAy3.svg)](https://asciinema.org/a/ps8vtKeQdxdoxu6G3vtcOrAy3)
 
 #### Run a game 'brain-prime':
+[![asciicast](https://asciinema.org/a/o6PTpmy2CxoxBBXzapwBtgPxq.svg)](https://asciinema.org/a/o6PTpmy2CxoxBBXzapwBtgPxq)
