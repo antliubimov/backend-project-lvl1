@@ -13,3 +13,5 @@
 
 #### Run a game 'brain-progression':
 [![asciicast](https://asciinema.org/a/ps8vtKeQdxdoxu6G3vtcOrAy3.svg)](https://asciinema.org/a/ps8vtKeQdxdoxu6G3vtcOrAy3)
+
+#### Run a game 'brain-prime':

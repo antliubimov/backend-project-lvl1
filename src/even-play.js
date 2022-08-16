@@ -1,6 +1,8 @@
 import { getRandomNumber, play } from './index.js';
 
-const isEvenNumber = (number) => ((number % 2 === 0) ? 'yes' : 'no');
+const isEvenNumber = (number) => number % 2 === 0;
+
+const checkEven = (number) => (isEvenNumber(number) ? 'yes' : 'no');
 
 const evenPlayQuestion = () => {
   const min = 1;
@@ -8,7 +10,7 @@ const evenPlayQuestion = () => {
   const result = {};
   const numb = getRandomNumber(min, max);
   result.str = `${numb}`;
-  result.answer = isEvenNumber(numb);
+  result.answer = checkEven(numb);
   return result;
 };
 
