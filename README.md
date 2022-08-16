@@ -2,6 +2,23 @@
 [![Actions Status](https://github.com/antliubimov/backend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/antliubimov/backend-project-lvl1/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/17cd746dab1184135734/maintainability)](https://codeclimate.com/github/antliubimov/backend-project-lvl1/maintainability)
 
+These are five simple math games:
+
+## Setup
+Clone this repository and run:
+
+```bash
+make install
+```
+## Commands to runs games:
+```bash
+brain-even
+brain-calc
+brain-gcd
+brain-progression
+brain-prime
+```
+
 #### Install and run a game 'brain-even':
 [![asciicast](https://asciinema.org/a/xdntpD8HvWPpT0Ov2jum8S44d.svg)](https://asciinema.org/a/xdntpD8HvWPpT0Ov2jum8S44d)
 
