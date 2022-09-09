@@ -20,16 +20,16 @@ brain-prime
 ```
 
 #### Install and run a game 'brain-even':
-[![asciicast](https://asciinema.org/a/xdntpD8HvWPpT0Ov2jum8S44d.svg)](https://asciinema.org/a/xdntpD8HvWPpT0Ov2jum8S44d)
+![asciicast](https://asciinema.org/a/xdntpD8HvWPpT0Ov2jum8S44d.svg)](https://asciinema.org/a/xdntpD8HvWPpT0Ov2jum8S44d)
 
 #### Run a game 'brain-calc':
-[![asciicast](https://asciinema.org/a/WoKLeyOQnNmJGx4XGS31P9NqK.svg)](https://asciinema.org/a/WoKLeyOQnNmJGx4XGS31P9NqK)
+[![asciicast](https://asciinema.org/a/Xvcs6KESpJeyGs0JxBpVSE5wl.svg)](https://asciinema.org/a/Xvcs6KESpJeyGs0JxBpVSE5wl)
 
 #### Run a game 'brain-gcd':
-[![asciicast](https://asciinema.org/a/HXi3FF1HzvWPJuNcehOXA4t47.svg)](https://asciinema.org/a/HXi3FF1HzvWPJuNcehOXA4t47)
+[![asciicast](https://asciinema.org/a/W2MkG3Ztwiyq1JI67cBWxTTgy.svg)](https://asciinema.org/a/W2MkG3Ztwiyq1JI67cBWxTTgy)
 
 #### Run a game 'brain-progression':
-[![asciicast](https://asciinema.org/a/ps8vtKeQdxdoxu6G3vtcOrAy3.svg)](https://asciinema.org/a/ps8vtKeQdxdoxu6G3vtcOrAy3)
+[![asciicast](https://asciinema.org/a/TXLQ0nYy2avbVCTdDwhaGCf8L.svg)](https://asciinema.org/a/TXLQ0nYy2avbVCTdDwhaGCf8L)
 
 #### Run a game 'brain-prime':
-[![asciicast](https://asciinema.org/a/o6PTpmy2CxoxBBXzapwBtgPxq.svg)](https://asciinema.org/a/o6PTpmy2CxoxBBXzapwBtgPxq)
+[![asciicast](https://asciinema.org/a/OC5MRSbIuG7Et8cLf4GHe1cfb.svg)](https://asciinema.org/a/OC5MRSbIuG7Et8cLf4GHe1cfb)
